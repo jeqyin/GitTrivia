@@ -1,3 +1,7 @@
+aswarner
 Which TV character said, "Live long and prosper"?
+	spock
 How many players are there in a baseball team?
+	9
 What is the chemical symbol for iron?
+	fe
